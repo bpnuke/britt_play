@@ -11,3 +11,5 @@ git is epic for storage!
 OH! did you notice the weird hashes for each commit? type git log
 
 we are almost done, should have ended at 6:30 technically
+
+OMG I AM SO FUCKING HUNGRY!
